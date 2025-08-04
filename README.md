@@ -1,12 +1,12 @@
 
 
 <!-- Banner-like header using emoji and simple styling -->
-<h1 align="center">🌿 Hi there, I'm Gasmi Ghezlene 🌸</h1>
-<p align="center">3rd-year AI student at <strong>ENSIA</strong> | Tech + Design + Creative Code</p>
+<h1 align="center"> Hi there, I'm Gasmi Ghezlene 🌸</h1>
+<p align="center">3rd-year AI student at <strong>ENSIA</strong> 
 
 ---
 
-## 💎 Tech & Tools
+## 🌸 Tech & Tools
 
 ![Figma](https://img.shields.io/badge/Figma-%23D8A1C4?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23F5F5DC?style=for-the-badge&logo=notion&logoColor=black)
@@ -29,4 +29,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghezlen18&show_icons=true&theme=soft)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghezlen18&show_icons=true&theme=tokyonight&title_color=A0522D&icon_color=C9A8B0&text_color=5A3E36&bg_color=F5E6D3&border_color=D8A1C4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghezlen18&layout=compact&theme=tokyonight&title_color=A0522D&icon_color=C9A8B0&text_color=5A3E36&bg_color=F5E6D3&border_color=D8A1C4)
