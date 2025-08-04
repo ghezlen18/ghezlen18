@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/ek9Xn0H.png" alt="Hello" width="100%" />
+
 
 ## Hi there 🌸 , I'm Gasmi Ghezlene
 
@@ -22,4 +21,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gasmi-ghezlene/)
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=rose_pine)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghezlen18&show_icons=true&theme=rose_pine)
