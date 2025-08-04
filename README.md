@@ -27,10 +27,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23D8A1C4?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@itsghezlene6686)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F5E6D3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gasmi-ghezlene-842958322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghezlen18&show_icons=true&theme=tokyonight&title_color=A0522D&icon_color=C9A8B0&text_color=5A3E36&bg_color=F5E6D3&border_color=D8A1C4)
 
 
