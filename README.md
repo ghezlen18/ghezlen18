@@ -33,4 +33,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghezlen18&show_icons=true&theme=tokyonight&title_color=A0522D&icon_color=C9A8B0&text_color=5A3E36&bg_color=F5E6D3&border_color=D8A1C4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghezlen18&layout=compact&theme=tokyonight&title_color=A0522D&icon_color=C9A8B0&text_color=5A3E36&bg_color=F5E6D3&border_color=D8A1C4)
+
