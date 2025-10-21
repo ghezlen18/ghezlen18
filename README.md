@@ -15,6 +15,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%23DAB6C4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23D8A1C4?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23A9746E?style=for-the-badge&logo=oracle&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23D8A1C4?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23F5F5DC?style=for-the-badge&logo=notion&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-%23A0522D?style=for-the-badge&logo=cplusplus&logoColor=white)
